@@ -1,0 +1,22 @@
+/**
+*
+* spacing.css
+* @author - Lameen
+* @date - 03/02/2023
+**/
+
+.mt-8 {
+    margin-top: 8px;
+}
+.mt-10 {
+    margin-top: 10px;
+}
+.mt-15 {
+    margin-top: 25px;
+}
+.ml-30 {
+    margin-left: 30px;
+}
+.pt-80 {
+    padding-top: 80px;
+}

@@ -1,0 +1,37 @@
+/**
+*
+* form.css
+* @author - Lameen
+* @date - 03/02/2023
+**/
+
+.text-field {
+    background-color: #141b29;
+    border: none;
+    padding-bottom: 5px;
+    font-size: 16px;
+    margin-left: 0px;
+}
+::placeholder {
+    color: #ffffffcc;
+}
+.search-container {
+    border-bottom: 1px solid #ffffffcc;
+    width: 260px;
+}
+.primary-button {
+    background-color: #1F80F4;
+    color: #ffffff;
+    border: none;
+    padding: 4px 8px;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight: 600;
+    margin: 0 5px 0 15px;
+}
+.secondary-button {
+    background-color: #141b29;
+    border:none;
+    color: #ffffff;
+    font-size: 12px;
+}

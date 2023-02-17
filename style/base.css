@@ -1,0 +1,49 @@
+/**
+*
+* base.css
+* @author - Lameen
+* @date - 03/02/2023
+**/
+
+body {
+    font-size: 20px;
+    font-family: "Roboto","HelveticaNeue-Light",sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #141b29;
+    color: #DADADA ;
+}
+header {
+    position: fixed;
+    width: 100%;
+    display: block;
+    background-color: #141b29;
+    padding-top: 15px;
+    z-index: 2;
+}
+h1 {
+    margin-bottom: 15px;
+}
+h3 {
+    font-size: 18px;
+    margin: 0;
+}
+h4 {
+    margin-bottom: 15px;
+    color: #ffffff;
+}
+h5 {
+    margin-bottom: 10px;
+    margin-top: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #DADADA;
+}
+p {
+    font-size: 12px;
+    line-height: 1.5;
+    width: 640px;
+}
+footer {
+    margin: 40px 0 40px 0;
+}

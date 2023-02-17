@@ -1,0 +1,119 @@
+/**
+*
+* style.css
+* @author - Lameen
+* @date - 03/02/2023
+**/
+
+.wrapper {
+    margin: 0 auto;
+    width: 1300px;
+}
+.menu-icon-container {
+    margin-top: 10px;
+}
+.menu-icon {
+    color: #ffffffcc;
+    font-size: 16px;
+}
+.menu-icon:hover {
+    color: #ffffff;
+}
+.logo-container {
+    margin: 0 35px 20px 10px;
+}
+.kids-icon {
+    width: 38px;
+    height: 14px;
+    display: inline-block;
+    background: url("../img/kid.jpg") no-repeat;
+}
+.search-icon {
+    font-size: 14px;
+    color: #ffffffcc;
+    padding: 0  0px 3px 0;
+}
+.slider-description {
+    font-size: 16px;
+    width: 400px;
+    line-height: 1.8;
+}
+.slider-img-container {
+    box-shadow: 15px 0  30px #0c111b inset;
+    height: 455px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.slider-img {
+    width: 100%;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    position: relative;
+    z-index: -1;
+}
+.slider-content-container {
+    padding: 40px 0 0 45px;
+    background-color: #0c111b;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.movie-img {
+    border-radius: 5px;
+}
+.movie-container {
+    position: relative;
+}
+.shows {
+    position: absolute;
+    bottom: 15px;
+    left:15px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #ffffff;
+}
+.categories {
+    position: absolute;
+    top: 45%;
+    left: 35%;
+    font-size: 14px;
+    font-weight: 600;
+    color: #ffffff;
+}
+.play-icon {
+    margin-right: 10px;
+}
+.social-icon  {
+    height: 38px;
+    width: 38px;
+    display: inline-block;
+}
+.fb-icon {
+    background: url("../img/fb.jpg") left top no-repeat;
+}
+.twitter-icon {
+    background: url("../img/twiiter.jpg") left top no-repeat;
+}
+.fb-icon:hover {
+    background: url("../img/fb-blue.jpg") left top no-repeat;
+}
+.twitter-icon:hover {
+    background: url("../img/twitter-blue.jpg") left top no-repeat;
+}
+.google {
+    height: 38px;
+    width: 130px;
+    display: inline-block;
+    background: url("../img/play.jpg") left top no-repeat;
+}
+.apple {
+    height: 38px;
+    width: 130px;
+    display: inline-block;
+    background: url("../img/apple.jpg") left top no-repeat;
+}
+.google:hover {
+    background: url("../img/play-blue.jpg") left top no-repeat;
+}
+.apple:hover {
+    background: url("../img/apple-blue.jpg") left top no-repeat;
+}

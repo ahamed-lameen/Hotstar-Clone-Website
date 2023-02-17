@@ -1,0 +1,22 @@
+/**
+*
+* grid.css
+* @author - Lameen
+* @date - 03/02/2023
+**/
+
+.grid-8c {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+    grid-column-gap: 10px;
+}
+.grid-6c {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    grid-column-gap: 2px;
+}
+.grid-3c {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-column-gap: 120px;
+}
